@@ -16,6 +16,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -31,19 +32,13 @@
     <img src="https://github.com/telekom/magentacloud-business/blob/main/MCB-ReadmeHead2.png" alt="Logo">
   </a>
   
-
-
-
-  <h3 align="center">MagentaCLOUD Business</h3>
-
   <p align="center">
-    <br />
-    <a href="https://docs.nextcloud.com/server/latest/user_manual/de/files/index.html"><strong>Benutzeranleitung »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/telekom/magentacloud-business/issues">Bug melden</a>
     ·
     <a href="https://github.com/telekom/magentacloud-business/issues">Feature anfragen</a>
+    ·
+    <a href="https://github.com/telekom/magentacloud-business/issues">Support kontaktieren</a>
   </p>
 </div>
 
