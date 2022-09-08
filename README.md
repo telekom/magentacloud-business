@@ -17,9 +17,9 @@
   
   <p align="center">
     <br />
-    <a href="https://github.com/telekom/magentacloud-business/issues">Bug melden</a>
+    <a href="https://github.com/telekom/magentacloud-business/issues/new?assignees=&labels=&template=bug_report.md&title=">Bug melden</a>
     ·
-    <a href="https://github.com/telekom/magentacloud-business/issues">Feature anfragen</a>
+    <a href="https://github.com/telekom/magentacloud-business/issues/new?assignees=&labels=&template=feature_request.md&title=">Feature anfragen</a>
     ·
     <a href="https://github.com/telekom/magentacloud-business/issues">Support kontaktieren</a>
   </p>
@@ -79,7 +79,7 @@ Eine Ausführliche Benutzeranleitung finden Sie  <a href="https://docs.nextcloud
 <!-- USAGE EXAMPLES -->
 ## Troubleshooting
 
-Nutzen Sie die Möglichkeit, einen <a href="https://github.com/telekom/magentacloud-business/issues">Bug</a> zu melden, oder mit anderen zu <a href="https://github.com/telekom/magentacloud-business/discussions">diskutieren</a>  .
+Nutzen Sie die Möglichkeit, einen <a href="https://github.com/telekom/magentacloud-business/issues/new?assignees=&labels=&template=bug_report.md&title=">Bug</a> zu melden, oder mit anderen zu <a href="https://github.com/telekom/magentacloud-business/discussions">diskutieren</a>  .
 
 Sollten Sie weiterhin Probleme haben, kontaktieren Sie unseren  <a href="mailto:fmb.fmb-hospitality-iptv-team@t-systems.com">Support</a>.
 
@@ -94,7 +94,7 @@ Sollten Sie weiterhin Probleme haben, kontaktieren Sie unseren  <a href="mailto:
 - [ ] Video conferencing (Nextcloud Talk)
 - ...
 
-Für eine vollständige Liste oder die Möglichkeit, Features anzufragen finden Sie <a href="https://github.com/telekom/magentacloud-business/issues">hier</a>.
+Für eine vollständige Liste oder die Möglichkeit, Features anzufragen finden Sie <a href="https://github.com/telekom/magentacloud-business/issues/new?assignees=&labels=&template=feature_request.md&title=">hier</a>.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
