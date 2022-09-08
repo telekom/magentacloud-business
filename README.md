@@ -79,7 +79,8 @@ Eine Ausführliche Benutzeranleitung finden Sie  <a href="https://docs.nextcloud
 <!-- USAGE EXAMPLES -->
 ## Troubleshooting
 
-Nutzen Sie die Möglichkeit, einen <a href="https://github.com/telekom/magentacloud-business/issues/new?assignees=&labels=&template=bug_report.md&title=">Bug</a> zu melden, oder mit anderen zu <a href="https://github.com/telekom/magentacloud-business/discussions">diskutieren</a>  .
+
+Nutzen Sie die Möglichkeit, bereits bekannte Bugs zu <a href="https://github.com/telekom/magentacloud-business/issues">priorisieren</a>, einen <a href="https://github.com/telekom/magentacloud-business/issues/new?assignees=&labels=&template=bug_report.md&title=">Bug</a> zu melden, oder mit anderen zu <a href="https://github.com/telekom/magentacloud-business/discussions">diskutieren</a>  .
 
 Sollten Sie weiterhin Probleme haben, kontaktieren Sie unseren  <a href="mailto:fmb.fmb-hospitality-iptv-team@t-systems.com">Support</a>.
 
