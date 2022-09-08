@@ -8,14 +8,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://github.com/telekom/magentacloud-business/blob/main/MCB-ReadmeHead2.png" alt="Logo">
-  </a>
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -30,6 +22,15 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://github.com/telekom/magentacloud-business/blob/main/MCB-ReadmeHead2.png" alt="Logo">
+  </a>
+  
 
 
 
