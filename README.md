@@ -70,7 +70,7 @@ MagentaCLOUD Business bietet eine einfache, sicherere und kostengünstige Datenm
 
 Eine kurze Benutzeranleitung finden Sie  <a href="https://github.com/telekom/magentacloud-business/blob/main/Quick Guide Next Magenta Cloud V.1.21.pdf">hier</a>.
 
-Eine Ausführliche Benutzeranleitung finden Sie  <a href="https://docs.nextcloud.com/server/latest/user_manual/de/files/index.html">hier</a>.
+Eine ausführliche Benutzeranleitung finden Sie  <a href="https://docs.nextcloud.com/server/latest/user_manual/de/files/index.html">hier</a>.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,7 +80,7 @@ Eine Ausführliche Benutzeranleitung finden Sie  <a href="https://docs.nextcloud
 ## Troubleshooting
 
 
-Nutzen Sie die Möglichkeit, bereits bekannte Bugs zu <a href="https://github.com/telekom/magentacloud-business/issues">priorisieren</a>, einen neuen <a href="https://github.com/telekom/magentacloud-business/issues/new?assignees=&labels=&template=bug_report.md&title=">Bug</a> zu melden, oder mit anderen zu <a href="https://github.com/telekom/magentacloud-business/discussions">diskutieren</a>  .
+Nutzen Sie die Möglichkeit bereits bekannte Bugs zu <a href="https://github.com/telekom/magentacloud-business/issues">priorisieren</a>, einen neuen <a href="https://github.com/telekom/magentacloud-business/issues/new?assignees=&labels=&template=bug_report.md&title=">Bug</a> zu melden, oder mit anderen zu <a href="https://github.com/telekom/magentacloud-business/discussions">diskutieren</a>  .
 
 Sollten Sie weiterhin Probleme haben, kontaktieren Sie unseren  <a href="mailto:fmb.fmb-hospitality-iptv-team@t-systems.com">Support</a>.
 
@@ -95,7 +95,7 @@ Sollten Sie weiterhin Probleme haben, kontaktieren Sie unseren  <a href="mailto:
 - [ ] Video conferencing (Nextcloud Talk)
 - ...
 
-Für eine vollständige Liste oder die Möglichkeit, Features anzufragen finden Sie <a href="https://github.com/telekom/magentacloud-business/issues/new?assignees=&labels=&template=feature_request.md&title=">hier</a>.
+Eine vollständige Liste oder die Möglichkeit, Features anzufragen finden Sie <a href="https://github.com/telekom/magentacloud-business/issues/new?assignees=&labels=&template=feature_request.md&title=">hier</a>.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,8 +105,6 @@ Für eine vollständige Liste oder die Möglichkeit, Features anzufragen finden 
 ## Weitere Ressourcen
 
 Eine Liste von weiteren Quellen, die für Ihr Projekt hilfreich sein könnten:
-
-* [Choose an Open Source License](https://choosealicense.com)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
